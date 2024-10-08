@@ -50,3 +50,14 @@ h2:hover{
     background-color: rgb(63, 63, 73);
     color: #ffffff;
 }
+
+footer{
+    max-width: 550px;
+    background-color:aliceblue;
+    color:#000000;
+    text-align: center;
+    height: 30px;
+    padding: auto;
+    margin: auto;
+    font-size: 16px;
+}
