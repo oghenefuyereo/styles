@@ -5,9 +5,44 @@ body {
     margin-left: auto;
     margin-right: auto;
     font-family: "Afacad Flux", sans-serif;
+
 }
 
 h1 {
     font-size: 50px;
     line-height: 50px;
+}
+
+p {
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 72px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a::before {
+    color: #ffffff;
+}
+
+a::after {
+    color: #e40000;
+}
+
+a:hover {
+    color: blue;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 24px;
+    padding: 16px 24px;
+    margin: 16px 0px 64px 0px;
+    border: 2px solid;
+    border-radius: 16px;
+    color: #000000;
+    background-color: #ffffff;
 }
