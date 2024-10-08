@@ -46,15 +46,16 @@ h2 {
     color: #ffffff;
     background-color: #000000;
 }
-h2:hover{
+
+h2:hover {
     background-color: rgb(63, 63, 73);
     color: #ffffff;
 }
 
-footer{
+footer {
     max-width: 550px;
-    background-color:aliceblue;
-    color:#000000;
+    background-color: aliceblue;
+    color: #000000;
     text-align: center;
     height: 30px;
     padding: auto;
