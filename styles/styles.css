@@ -33,7 +33,7 @@ a::after {
 }
 
 a:hover {
-    color: blue;
+    color: rgb(63, 63, 73);
 }
 
 h2 {
@@ -43,6 +43,10 @@ h2 {
     margin: 16px 0px 64px 0px;
     border: 2px solid;
     border-radius: 16px;
-    color: #000000;
-    background-color: #ffffff;
+    color: #ffffff;
+    background-color: #000000;
+}
+h2:hover{
+    background-color: rgb(63, 63, 73);
+    color: #ffffff;
 }
